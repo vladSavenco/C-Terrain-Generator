@@ -1,0 +1,21 @@
+﻿  TerrainGenerator.cpp
+C:\GameDevelopement\Github\322ComPart2\TerrainShaderized\TerrainGenerator.cpp(70,90): warning C4091: 'static ': ignored on left of 'buffer' when no variable is declared
+C:\GameDevelopement\Github\322ComPart2\TerrainShaderized\TerrainGenerator.cpp(71,54): warning C4091: 'static ': ignored on left of 'object' when no variable is declared
+C:\GameDevelopement\Github\322ComPart2\TerrainShaderized\TerrainGenerator.cpp(301,70): warning C4042: 'Vertices': has bad storage class
+C:\GameDevelopement\Github\322ComPart2\TerrainShaderized\TerrainGenerator.cpp(345,66): warning C4042: 'Vertices': has bad storage class
+C:\GameDevelopement\Github\322ComPart2\TerrainShaderized\TerrainGenerator.cpp(416,70): warning C4042: 'Vertices': has bad storage class
+C:\GameDevelopement\Github\322ComPart2\TerrainShaderized\TerrainGenerator.cpp(457,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GameDevelopement\Github\322ComPart2\TerrainShaderized\TerrainGenerator.cpp(458,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GameDevelopement\Github\322ComPart2\TerrainShaderized\TerrainGenerator.cpp(459,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GameDevelopement\Github\322ComPart2\TerrainShaderized\TerrainGenerator.cpp(460,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GameDevelopement\Github\322ComPart2\TerrainShaderized\TerrainGenerator.cpp(494,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GameDevelopement\Github\322ComPart2\TerrainShaderized\TerrainGenerator.cpp(495,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GameDevelopement\Github\322ComPart2\TerrainShaderized\TerrainGenerator.cpp(512,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GameDevelopement\Github\322ComPart2\TerrainShaderized\TerrainGenerator.cpp(525,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GameDevelopement\Github\322ComPart2\TerrainShaderized\TerrainGenerator.cpp(537,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GameDevelopement\Github\322ComPart2\TerrainShaderized\TerrainGenerator.cpp(549,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GameDevelopement\Github\322ComPart2\TerrainShaderized\TerrainGenerator.cpp(554,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GameDevelopement\Github\322ComPart2\TerrainShaderized\TerrainGenerator.cpp(604,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\GameDevelopement\Github\322ComPart2\TerrainShaderized\TerrainGenerator.cpp(606,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\GameDevelopement\Github\322ComPart2\TerrainShaderized\TerrainGenerator.cpp(608,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  TerrainShaderized.vcxproj -> C:\GameDevelopement\Github\322ComPart2\TerrainShaderized\x64\Debug\TerrainShaderized.exe
